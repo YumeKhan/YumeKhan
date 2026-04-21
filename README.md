@@ -1,4 +1,4 @@
-# Olá, eu sou a Débora! 👋
+# Olá, eu sou a Déborah! 👋
 
 Analista de Suporte Técnico e Desenvolvedora apaixonada por transformar dados brutos em decisões estratégicas. Atualmente, foco minha evolução em **Engenharia de Dados** e **Cibersegurança**.
 
